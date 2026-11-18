@@ -2,26 +2,30 @@
 
 ## My Name
 
-Write your name.
+My name is Telu Muni Thulasi.
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+1.Basic programming concepts.
+2.Logical thinking and problem-solving.
+3.Algorithms and pseudocode.
+4.Basic Python programming concepts.
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected Python because it is beginner-friendly, and widely used in software development, automation, and AI.
+
+
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My career goal is to become a Software Developer and build useful real-world applications.
+
 
 ## What I Understood Today
 
-Complete these sentences:
+Programming means: Giving instructions to a computer to perform specific tasks.
 
-Programming means:
+Python is: A high-level, general-purpose programming language.
 
-Python is:
-
-In this track, I will learn:
+In this track, I will learn: Python programming, problem-solving, and how to develop real-world applications.
